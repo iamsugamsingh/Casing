@@ -1,0 +1,27 @@
+D:\Casing\Casing\bin\Casing.dll
+D:\Casing\Casing\bin\Casing.pdb
+D:\Casing\Casing\obj\Debug\Casing.dll
+D:\Casing\Casing\obj\Debug\Casing.pdb
+D:\Casing\Casing\bin\itextsharp.dll
+D:\Casing\Casing\obj\Debug\Casing.csprojResolveAssemblyReference.cache
+D:\Casing\Casing\obj\Debug\RdlCompile.cache
+D:\Casing\Casing\obj\Debug\RdlCompile.compiled
+D:\Complete Softwares\Casing\Casing\bin\Casing.dll
+D:\Complete Softwares\Casing\Casing\bin\Casing.pdb
+D:\Complete Softwares\Casing\Casing\obj\Debug\Casing.csprojResolveAssemblyReference.cache
+D:\Complete Softwares\Casing\Casing\obj\Debug\RdlCompile.cache
+D:\Complete Softwares\Casing\Casing\obj\Debug\RdlCompile.compiled
+D:\Complete Softwares\Casing\Casing\obj\Debug\Casing.dll
+D:\Complete Softwares\Casing\Casing\obj\Debug\Casing.pdb
+D:\Complete Softwares\Casing\Casing\bin\Aws.dll
+D:\Complete Softwares\Casing\Casing\bin\Aws.pdb
+D:\Complete Softwares\Casing\Casing\bin\Spire.Barcode.dll
+W:\Software\Sugam\Casing\Casing\bin\Casing.dll
+W:\Software\Sugam\Casing\Casing\bin\Casing.pdb
+W:\Software\Sugam\Casing\Casing\bin\Spire.Barcode.dll
+W:\Software\Sugam\Casing\Casing\bin\Aws.pdb
+W:\Software\Sugam\Casing\Casing\obj\Debug\Casing.csprojResolveAssemblyReference.cache
+W:\Software\Sugam\Casing\Casing\obj\Debug\RdlCompile.cache
+W:\Software\Sugam\Casing\Casing\obj\Debug\RdlCompile.compiled
+W:\Software\Sugam\Casing\Casing\obj\Debug\Casing.dll
+W:\Software\Sugam\Casing\Casing\obj\Debug\Casing.pdb
